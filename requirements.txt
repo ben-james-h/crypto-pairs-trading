@@ -1,0 +1,6 @@
+ccxt
+joblib
+matplotlib
+numpy
+pandas
+statsmodels
